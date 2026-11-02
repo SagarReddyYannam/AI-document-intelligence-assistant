@@ -1,0 +1,18 @@
+# Environment variables and secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma database
+chroma_db/
+
+# Uploaded documents
+data/
+
+# Test cache
+.pytest_cache/
